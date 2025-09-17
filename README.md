@@ -1,3 +1,4 @@
 # MLOps-Practices-1-
-Practical exercises on MLOps focusing on reproducibility and model deployment.  
+Practical work on MLOps focusing on reproducibility and model deployment course.  
+Author: Godwin Owin Adidon
 
