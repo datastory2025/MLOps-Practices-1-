@@ -1,2 +1,3 @@
 # MLOps-Practices-1-
-Practical exercises to learn and apply MLOps basics using Python
+Practical exercises on MLOps focusing on reproducibility and model deployment.  
+
